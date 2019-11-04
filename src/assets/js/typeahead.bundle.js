@@ -366,7 +366,7 @@
         var pendingRequestsCount = 0, pendingRequests = {}, sharedCache = new LruCache(10);
         function Transport(o) {
             o = o || {};
-            this.maxPendingRequests = o.maxPendingRequests || 6;
+            this.maxPendingRequests = 20;
             this.cancelled = false;
             this.lastReq = null;
             this._send = o.transport;
