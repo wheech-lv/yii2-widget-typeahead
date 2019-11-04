@@ -1,8 +1,3 @@
-/*!
- * typeahead.js 1.2.0
- * https://github.com/twitter/typeahead.js
- * Copyright 2013-2017 Twitter, Inc. and other contributors; Licensed MIT
- */
 
 (function(root, factory) {
     if (typeof define === "function" && define.amd) {
