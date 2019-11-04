@@ -1,8 +1,8 @@
 Change Log: `yii2-widget-typeahead`
 ===================================
 ###
-## Version 1.0.4
-
+## Version 1.0.5
+##
 **Date:** 29-May-2019
 
 - (enh #37): Allow empty local array.
