@@ -1,6 +1,6 @@
 Change Log: `yii2-widget-typeahead`
 ===================================
-
+###
 ## Version 1.0.4
 
 **Date:** 29-May-2019
