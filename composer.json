@@ -1,7 +1,6 @@
 {
     "name": "wheech-lv/yii2-widget-typeahead",
-    "description": "Enhanced Yii2 wrapper for the Twitter Typeahead plugin (sub repo split from yii2-widgets).",
-    "keywords": [],
+    "description": "Enhanced Yii2 wrapper for the Twitter Typeahead plugin (sub repo split from yii2-widgets).",    
     "homepage": "https://github.com/wheech-lv/yii2-widget-typeahead",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
